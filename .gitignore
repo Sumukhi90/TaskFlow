@@ -1,0 +1,10 @@
+﻿node_modules/
+dist/
+.gocache/
+backend/*.db
+backend/*.db-shm
+backend/*.db-wal
+backend/*.log
+backend/*.exe
+frontend/*.log
+.runlogs/
